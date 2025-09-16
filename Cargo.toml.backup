@@ -1,5 +1,5 @@
 [package]
-name = "cs_mwc-bch"
+name = "mwc-bch"
 version = "0.2.0"
 description = "A Rust library for working with Bitcoin Cash"
 repository = "https://github.com/mwcproject/rust-bch"
